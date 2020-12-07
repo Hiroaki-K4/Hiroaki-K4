@@ -1,11 +1,20 @@
 ### Hi there 👋 I'm Hiroaki.
 ## I'm a software engineer
-🔭 I’m currently working on Globawalkers Inc(AI company)
-😄 The programming language I often use are C++, python, C
-🌱 I often use ROS at work
+- 📫 I’m currently working on Globawalkers Inc(AI company)
+- 😄 The programming language I often use are C++, python, C
+- 🌱 I often use ROS at work
+
+## 🔭 2021Goals
+### 📫 Acquire overwhelming technical capabilities
+- Continue running without being swallowed by a black hole at 42tokyo
+- Commit my output to github every day
+
+### 😄 Improve my skills in outputting and inputting information about technology
+- Create 50 articles a year about what you have learned about technology
+- Create tools that can efficiently collect information on the latest technology
 
 
-
+### 🌱 
 
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
