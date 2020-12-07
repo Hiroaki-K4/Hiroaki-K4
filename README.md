@@ -1,5 +1,10 @@
-### Hi there 👋 I am a first penguin in Japan.
-🔭 I’m a software engineer
+### Hi there 👋 I'm Hiroaki.
+## I'm a software engineer
+🔭 I’m currently working on Globawalkers Inc(AI company)
+😄 The programming language I often use are C++, python, C
+🌱 I often use ROS at work
+
+
 
 
 <!--
