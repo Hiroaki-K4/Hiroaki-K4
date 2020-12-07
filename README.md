@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am a first penguin in Japan.
+🔭 I’m a software engineer
+
 
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
