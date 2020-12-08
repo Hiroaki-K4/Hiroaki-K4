@@ -10,7 +10,7 @@
 - Commit my output to github every day
 
 ### 😄 Improve my skills in outputting and inputting information about technology
-- Create 50 articles a year about what I have learned about technology
+- Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology
 - Create tools that can efficiently collect information on the latest technology
 
 
