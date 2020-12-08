@@ -14,7 +14,7 @@
 - Create tools that can efficiently collect information on the latest technology
 
 
-### 🌱 Improv creativity
+### 🌱 Improve creativity
 - Draw a picture every day before going to bed
 - Start my own project and publish it on github
 <!--
