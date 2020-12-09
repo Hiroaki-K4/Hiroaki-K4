@@ -17,7 +17,7 @@
 
 ### 🌱 Improve creativity
 - Draw a picture every day before going to bed
-- Start my own project and publish it on github
+- Start my own project once a month
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
