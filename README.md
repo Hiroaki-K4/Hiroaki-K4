@@ -4,7 +4,7 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
-## 🔭 2021Goals
+## 2021Goals
 ### 📫 Acquire overwhelming technical capabilities
 - Solve 42tokyo tasks with vim
 - Open 42 tokyo review slots every day
