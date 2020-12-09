@@ -6,7 +6,8 @@
 
 ## 🔭 2021Goals
 ### 📫 Acquire overwhelming technical capabilities
-- Continue running without being swallowed by a black hole at 42tokyo
+- Solve 42tokyo tasks with vim
+- Open 42 tokyo review slots every day
 - Commit my output to github every day
 
 ### 😄 Improve my skills in outputting and inputting information about technology
