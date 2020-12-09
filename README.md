@@ -4,6 +4,8 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
+
+
 ## 2021Goals
 ### 📫 Acquire overwhelming technical capabilities
 - Solve 42tokyo tasks with vim
@@ -18,8 +20,14 @@
 ### 🌱 Improve creativity
 - Draw a picture every day before going to bed
 - Start my own project once a month
+
+
+
+## Life Goals 
+
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
