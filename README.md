@@ -6,7 +6,7 @@
 
 
 
-## 2021Goals
+## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
 - Solve 42tokyo tasks with vim
 - Open 42 tokyo review slots every day
