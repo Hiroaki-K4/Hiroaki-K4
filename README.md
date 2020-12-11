@@ -4,9 +4,12 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
+
+
 ## My works
 - [Qiita](https://qiita.com/Hiroaki-K4)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)
+
 
 
 ## 2021 Goals
@@ -18,7 +21,6 @@
 ### 😄 Improve my skills in outputting and inputting information about technology
 - Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology
 - Create tools that can efficiently collect information on the latest technology
-
 
 ### 🌱 Improve creativity
 - Draw a picture every day before going to bed
