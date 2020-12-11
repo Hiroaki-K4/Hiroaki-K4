@@ -29,7 +29,8 @@
 
 
 ## Life Goals 
-
+- Create an environment where engineers can lively create new things
+- Create interesting things that are not yet in the world
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
