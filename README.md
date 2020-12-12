@@ -14,8 +14,8 @@
 
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
-- Solve 42tokyo tasks with vim
-- Open 42 tokyo review slots Saturday and Sunday
+- Master simulation technology(ex. Unity)
+- Master Reinforcement learning
 - Commit my output to github every day
 
 ### 😄 Improve my skills in outputting and inputting information about technology
