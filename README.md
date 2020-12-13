@@ -16,10 +16,10 @@
 ### 📫 Acquire overwhelming technical capabilities
 - Master simulation technology(ex. Unity)
 - Master Reinforcement learning
-- Commit my output to github every day
+- Master Vim
 
 ### 😄 Improve my skills in outputting and inputting information about technology
-- Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology
+- Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology by writing Vim.
 - Create tools that can efficiently collect information on the latest technology
 
 ### 🌱 Improve creativity
