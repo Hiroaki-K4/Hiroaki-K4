@@ -19,13 +19,9 @@
 Develop that technology
 - None
 
-<br />
-
 ### Level A(Athelete)
 I can use it freely
 - None
-
-<br />
 
 ### Level B(Boy)
 I can do basic things
@@ -34,8 +30,6 @@ I can do basic things
 - C
 - ROS
 - Deep learning
-
-<br />
 
 ### Level C(Child)
 Learning the basics
