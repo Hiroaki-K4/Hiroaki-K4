@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Hiroaki-K4.
-## **I'm a software engineer**
+## I'm a software engineer
 - 📫 I’m currently working on Globawalkers Inc(AI company)
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
+<br />
 <br />
 
 ## My works
@@ -11,10 +12,38 @@
 - [tkdnn_ros(High speed darknet running on ROS)](https://github.com/Hiroaki-K4/tkdnn_ros)
 
 <br />
+<br />
 
 ## My skill level
-### Level C
+### Level S(Super man)
+Develop that technology
+- None
 
+<br />
+
+### Level A(Athelete)
+I can use it freely
+- None
+
+<br />
+
+### Level B(Boy)
+I can do basic things
+- Python
+- C++
+- C
+- ROS
+- Deep learning
+
+<br />
+
+### Level C(Child)
+Learning the basics
+- Vim
+- Unity
+- Reinforcement learning
+
+<br />
 <br />
 
 ## 2021 Goals
@@ -22,14 +51,19 @@
 - Master Unity
 - Master Reinforcement learning
 
+<br />
+
 ### 😄 Improve my skills in outputting and inputting information about technology
 - Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology by writing Vim.
 - Create tools that can efficiently collect information on the latest technology
+
+<br />
 
 ### 🌱 Improve creativity
 - Draw a picture every day before going to bed
 - Start my own project once a month
 
+<br />
 <br />
 
 ## Life Goals 
