@@ -48,8 +48,7 @@ Learning the basics
 
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
-- Master Unity
-- Master Reinforcement learning
+- Take my skills to the next level
 
 <br />
 
