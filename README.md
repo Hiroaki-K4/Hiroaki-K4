@@ -42,7 +42,7 @@ Learning the basics
 
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
-- Take my skills to the next level
+- Take my all skills to the next level
 
 <br />
 
