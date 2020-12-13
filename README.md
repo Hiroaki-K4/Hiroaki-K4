@@ -1,16 +1,21 @@
 ### Hi there 👋 I'm Hiroaki-K4.
-## I'm a software engineer
+## **I'm a software engineer**
 - 📫 I’m currently working on Globawalkers Inc(AI company)
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
-
+<br />
 
 ## My works
 - [tech blog](https://qiita.com/Hiroaki-K4)
 - [tkdnn_ros(High speed darknet running on ROS)](https://github.com/Hiroaki-K4/tkdnn_ros)
 
+<br />
 
+## My skill level
+### Level C
+
+<br />
 
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
@@ -25,7 +30,7 @@
 - Draw a picture every day before going to bed
 - Start my own project once a month
 
-
+<br />
 
 ## Life Goals 
 - Create an environment where engineers can lively create new things
