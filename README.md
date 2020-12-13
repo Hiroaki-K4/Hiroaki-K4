@@ -7,16 +7,15 @@
 
 
 ## My works
-- [Qiita](https://qiita.com/Hiroaki-K4)
-- [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)
+- [tech blog](https://qiita.com/Hiroaki-K4)
+- [tkdnn_ros(High speed darknet running on ROS)](https://github.com/Hiroaki-K4/tkdnn_ros)
 
 
 
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
-- Master simulation technology(ex. Unity)
+- Master Unity
 - Master Reinforcement learning
-- Master Vim
 
 ### 😄 Improve my skills in outputting and inputting information about technology
 - Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology by writing Vim.
