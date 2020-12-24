@@ -17,6 +17,7 @@
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
 - Take my all skills to the next level
+- Master mathmatics for computer science
 
 <br />
 
