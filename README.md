@@ -14,32 +14,6 @@
 <br />
 <br />
 
-## My skill level
-### Level S(Super man)
-Develop that technology
-- None
-
-### Level A(Athelete)
-I can use it freely
-- None
-
-### Level B(Boy)
-I can do basic things
-- Python
-- C++
-- C
-- ROS
-- Deep learning
-
-### Level C(Child)
-Learning the basics
-- Vim
-- Unity
-- Reinforcement learning
-
-<br />
-<br />
-
 ## 2021 Goals
 ### 📫 Acquire overwhelming technical capabilities
 - Take my all skills to the next level
