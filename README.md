@@ -28,7 +28,7 @@
 <br />
 
 ### 🌱 Improve creativity
-- Draw a picture every day before going to bed
+- Try to sell my own graphic work
 - Start my own project once a month
 
 <br />
