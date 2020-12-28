@@ -19,6 +19,7 @@ Take my level of programming, design and math to the next level.
 
 ### 📫 Programming
 - Do not be swallowed by a black hole in 42tokyo.
+- Master Vim
 
 <br />
 
