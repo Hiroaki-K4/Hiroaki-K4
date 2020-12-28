@@ -15,21 +15,20 @@
 <br />
 
 ## 2021 Goals
-### 📫 Acquire overwhelming technical capabilities
-- Take my all skills to the next level
-- Master mathmatics for computer science
+Take my level of programming, design and math to the next level.
+
+### 📫 Programming
+- Do not be swallowed by a black hole in 42tokyo.
 
 <br />
 
-### 😄 Improve my skills in outputting and inputting information about technology
-- Create 50 [articles](https://qiita.com/Hiroaki-K4) a year about what I have learned about technology by writing Vim.
-- Create tools that can efficiently collect information on the latest technology
+### 😄 Mathmatics
+- Master all the mathematics needed for deep learning
 
 <br />
 
-### 🌱 Improve creativity
-- Try to sell my own graphic work
-- Start my own project once a month
+### 🌱 Design
+- Make  own work and sell it
 
 <br />
 <br />
