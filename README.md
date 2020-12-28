@@ -8,7 +8,7 @@
 <br />
 
 ## My works
-- [tech blog](https://qiita.com/Hiroaki-K4)
+- [Tech blog](https://qiita.com/Hiroaki-K4)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 
 <br />
