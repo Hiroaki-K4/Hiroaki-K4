@@ -14,7 +14,7 @@
 <br />
 <br />
 
-## 2021 Goals
+## 2021 Goals(一途に)
 Take my level of programming, design and math to the next level.
 
 ### 📫 Programming
