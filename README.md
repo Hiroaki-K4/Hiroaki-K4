@@ -14,8 +14,8 @@
 <br />
 <br />
 
-## 2021 Goals(一途に)
-Take my level of programming, design and math to the next level.
+## 2021 Goals
+Take my level of programming, design and math to the next level. The motto of 2021 is "一途に".
 
 ### 📫 Programming
 - Do not be swallowed by a black hole in 42tokyo.
