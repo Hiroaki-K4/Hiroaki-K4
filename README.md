@@ -22,12 +22,8 @@
 - Do not be swallowed by a black hole in 42tokyo.
 - Master Vim
 
-<br />
-
 ### 😄 Mathmatics
 - Master all the mathematics needed for deep learning
-
-<br />
 
 ### 🌱 Design
 - Make  own work and sell it
