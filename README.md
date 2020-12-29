@@ -14,7 +14,7 @@
 <br />
 <br />
 
-## 2021 Goals ~The motto is "一途に".~
+## 2021 Goals (The motto is "一途に".)
 - Take my level of programming, design and math to the next level.
 - Create something of value to someone.
 
