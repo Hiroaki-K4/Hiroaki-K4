@@ -15,25 +15,25 @@
 <br />
 
 ## 2021 Goals
-- Take my level of programming, design and math to the next level.
-- Create something of value to someone.
+- Make, Make, Make
 
 ### 📫 Programming
 - Do not be swallowed by a black hole in 42tokyo.
-- Master Vim
+- Make 50 tech articles
+- Start 12 projects
 
 ### 😄 Mathmatics
-- Master all the mathematics needed for deep learning
+- Master all the mathematics needed for deep learning(reinforcement learning, GAN etc..) → Understand yobinori movies.
 
 ### 🌱 Design
-- Make  own work and sell it
+- Make own work(50 work) and sell it
 
 <br />
 <br />
 
 ## Life Goals 
-- Create an environment where engineers can lively create new things
-- Create interesting things that are not yet in the world
+面白くて、誰かにとって価値のあるものを作りたい
+
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
