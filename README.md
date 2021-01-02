@@ -15,8 +15,6 @@
 <br />
 
 ## 2021 Goals
-- Make, Make, Make
-
 ### 📫 Programming
 - Do not be swallowed by a black hole in 42tokyo.
 - Make 50 tech articles
