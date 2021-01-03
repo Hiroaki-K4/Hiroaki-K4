@@ -11,6 +11,7 @@
 - [Tech blog](https://qiita.com/Hiroaki-K4)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 - Publish art work(Januarry~)
+- Make Robot(Feburarry~)
 
 <br />
 <br />
