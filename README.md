@@ -20,7 +20,7 @@
 ### 📫 Programming
 - Do not be swallowed by a black hole in 42tokyo.
 - Make 50 tech articles
-- Start 12 projects
+- Start core project
 
 ### 😄 Mathmatics
 - Master all the mathematics needed for deep learning(reinforcement learning, GAN etc..) → Understand yobinori movies.
