@@ -17,17 +17,8 @@
 <br />
 
 ## 2021 Goals
-### 📫 Programming
-- Do not be swallowed by a black hole in 42tokyo.
-- Start core project
-
-### 😄 Mathmatics
-- Master all the mathematics needed for deep learning(reinforcement learning, GAN etc..) → Understand yobinori movies.
-
-### 🌱 Design
-- Make own work(50 work) and sell it
-
-<br />
+- Experiment every day
+- Find and proceed with the core project from the experiment
 <br />
 
 <!--
