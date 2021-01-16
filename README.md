@@ -30,9 +30,6 @@
 <br />
 <br />
 
-## Life Goal
-面白くて、誰かにとって価値のあるものを作りたい
-
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
