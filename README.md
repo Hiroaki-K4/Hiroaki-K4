@@ -18,7 +18,7 @@
 
 ## 2021 Goals
 - Experiment every day
-- Find and proceed with the core project from the experiment
+
 <br />
 
 <!--
