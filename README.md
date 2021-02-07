@@ -17,7 +17,7 @@
 <br />
 
 ## 2021 Goals
-- Experiment every day
+- Experiment with SOTA for all tasks in paperwithcode
 
 <br />
 
