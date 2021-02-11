@@ -17,7 +17,7 @@
 <br />
 
 ## 2021 Goals
-- Experiment with SOTA for all tasks in paperwithcode
+- Become a Kaggle Master
 
 <br />
 
