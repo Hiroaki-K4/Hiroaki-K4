@@ -18,6 +18,7 @@
 
 ## 2021 Goals
 - Become a Kaggle Master
+- Proceed 42 Tokyo's tasks on schedule
 
 <br />
 
