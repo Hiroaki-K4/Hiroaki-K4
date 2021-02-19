@@ -19,6 +19,7 @@
 ## 2021 Goals
 - Become a Kaggle Master
 - Proceed 42 Tokyo's tasks on schedule
+- Work in a country with more advanced technology than Japan
 
 <br />
 
