@@ -18,7 +18,7 @@
 
 ## 2021 Goals
 - Create a service that is used by more than 100 people a month
-- Proceed 42 Tokyo's tasks on schedule without using AGC
+- Reach level 10 at 42tokyo(~2022/3)
 
 <br />
 
