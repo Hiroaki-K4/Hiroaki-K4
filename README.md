@@ -9,7 +9,7 @@
 
 ## My works
 - [Tech blog](https://qiita.com/Hiroaki-K4)
-- [42tokyo]()
+- [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 - Make Robot(Feburarry~)
 
