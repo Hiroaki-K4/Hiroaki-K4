@@ -6,7 +6,6 @@
 
 [![Hiroaki-K4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiroaki_K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
@@ -16,6 +15,7 @@
 - [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 - Make Robot(Feburarry~)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiroaki_K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
