@@ -4,7 +4,7 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
-[![Hiroaki-K4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4)](https://github.com/anuraghazra/github-readme-stats)
+[![Hiroaki-K4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <br />
