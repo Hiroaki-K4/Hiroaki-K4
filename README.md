@@ -16,8 +16,6 @@
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 - Make Robot(Feburarry~)
 
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiroaki_K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 <br />
 
