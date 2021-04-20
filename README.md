@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Hiroaki-K4.
-## I'm a software engineer
-- 📫 I’m currently working on Globawalkers Inc(AI company)
+## Hi there 👋 I'm Hiroaki-K4.
+- 📫 I’m currently working on AI company.
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
