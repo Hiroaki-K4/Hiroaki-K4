@@ -5,7 +5,6 @@
 - 🌱 I often use ROS at work
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
