@@ -18,6 +18,8 @@
 - [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 - Make Robot(Feburarry~)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 <br />
