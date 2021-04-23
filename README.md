@@ -3,8 +3,6 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hkubo)](https://github.com/mohouyizme/1337-readme)
-
 <br />
 <br />
 
