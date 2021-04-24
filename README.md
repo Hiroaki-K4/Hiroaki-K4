@@ -18,6 +18,9 @@
 - [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiroaki_K4)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
