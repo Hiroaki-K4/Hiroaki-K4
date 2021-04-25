@@ -9,7 +9,6 @@
 ## 👯My stats👯
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-**Weekly activity**
 ![stats](https://wakatime.com/share/@Hiroaki_K4/6943fb2c-2984-4c34-b109-688c95f68f16.png)
 
 <br />
