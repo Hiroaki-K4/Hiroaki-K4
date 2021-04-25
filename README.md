@@ -18,7 +18,7 @@
 - [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
 
-.. image:: https://wakatime.com/share/@Hiroaki_K4/6943fb2c-2984-4c34-b109-688c95f68f16.png
+![stats](https://wakatime.com/share/@Hiroaki_K4/6943fb2c-2984-4c34-b109-688c95f68f16.png)
     :target: https://wakatime.com/
 
 <br />
