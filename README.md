@@ -23,8 +23,7 @@
 <br />
 
 ## 😄2021 Goals😄
-- Create a service that is used by more than 100 people a month
-- Reach level 10 at 42tokyo(~2022/3)
+- Advance 42 tasks without BH
 
 <br />
 
