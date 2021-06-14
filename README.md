@@ -23,7 +23,7 @@
 <br />
 
 ## 😄2021 Goals😄
-- Advance 42 tasks without BH
+- Advance 42 tasks without using AGU
 
 <br />
 
