@@ -2,6 +2,7 @@
 - 📫 I’m currently working on AI company.
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
+- I use Github for my private development and GitLab for my work. [GitLab](https://gitlab.com/Hiroaki-K4)
 
 <br />
 <br />
