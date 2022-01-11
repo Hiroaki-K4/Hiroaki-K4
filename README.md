@@ -23,7 +23,7 @@
 <br />
 <br />
 
-## 😄2021 Goals😄
+## 😄2022 Goals😄
 - Advance 42 tasks without using AGU
 
 <br />
