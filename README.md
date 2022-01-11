@@ -24,7 +24,7 @@
 <br />
 
 ## 😄2022 Goals😄
-- Advance 42 tasks without using AGU
+- Finish 42 first circle
 
 <br />
 
