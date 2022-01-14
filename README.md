@@ -13,9 +13,7 @@
 ![Top launguages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiroaki-K4&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiroaki-K4&theme=monokai)
 ![Commits per day by hour(UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiroaki-K4&theme=monokai)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-K4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-K4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![stats](https://wakatime.com/share/@Hiroaki_K4/bac83d78-8eb2-4678-97a0-e683119b0d3d.png)
+![wakatime](https://wakatime.com/share/@Hiroaki_K4/bac83d78-8eb2-4678-97a0-e683119b0d3d.png)
 
 <br />
 <br />
