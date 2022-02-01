@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Hiroaki-K4.
-- 📫 I’m currently working on AI company.
+- 📫 I’m currently working on the tech company.
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
-- ⚡ I use Github for my private development and [GitLab](https://gitlab.com/Hiroaki-K4) for my work.
+- ⚡ I use Github for my private development and [GitLab](https://gitlab.com/Hiroaki-Kubo) for my work.
 
 <br />
 <br />
