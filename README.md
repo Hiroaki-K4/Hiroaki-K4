@@ -3,6 +3,7 @@
 - 😄 The programming language I often use are C++, python, C
 - 🌱 I often use ROS at work
 - ⚡ I use Github for my private development and [GitLab](https://gitlab.com/Hiroaki-Kubo) for my work.
+- 💬 Blog([Qiita](https://qiita.com/Hiroaki-K4), [Medium](https://medium.com/@hirok4))
 
 <br />
 <br />
