@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Hiroaki-K4.
-- 📫 I’m currently working on the tech company.
-- 😄 The programming language I often use are C++, python, C
-- 🌱 I often use ROS at work
-- ⚡ I use Github for my private development and [GitLab](https://gitlab.com/Hiroaki-Kubo) for my work.
+## Hi there 👋 I'm Hiroaki Kubo.
+- 📫 I always want to create fundamental technologies that will lead to the development of software.
+- 😄 The programming language I often use are C, C++, python, Go.
+- 🌱 I am currently making a web server like Nginx as a hobby.
+- ⚡ I use Github for my private development.
 - 💬 Blog([Qiita](https://qiita.com/Hiroaki-K4), [Medium](https://medium.com/@hirok4))
 
 <br />
@@ -19,15 +19,14 @@
 <br />
 
 ## 🌱My works🌱
-- [Tech blog](https://qiita.com/Hiroaki-K4)
-- [42tokyo](https://github.com/Hiroaki-K4/42tokyo)
-- [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)(High speed darknet running on ROS)
-
-<br />
-<br />
-
-## 😄2022 Goals😄
-- Finish 42 first circle
+- [Minishell](https://github.com/Hiroaki-K4/minishell)  
+As beautiful as a shell
+- [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)  
+High speed darknet running on ROS
+- [cub3D](https://github.com/Hiroaki-K4/cub3D)  
+Raycasting game
+- [42tokyo](https://github.com/Hiroaki-K4/42tokyo)  
+I love 42Tokyo.
 
 <br />
 
