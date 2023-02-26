@@ -6,25 +6,14 @@
 - 💬 Blog([Qiita](https://qiita.com/Hiroaki-K4), [Medium](https://medium.com/@hirok4))
 
 <br />
-<br />
-
-## 👯My stats👯
-![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroaki-K4&theme=monokai)
-![Top launguages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiroaki-K4&theme=monokai)
-![Top launguages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiroaki-K4&theme=monokai)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiroaki-K4&theme=monokai)
-![Commits per day by hour(UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiroaki-K4&theme=monokai)
-
-<br />
-<br />
 
 ## 🌱My works🌱
+- [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
+Enjoy 3D rotation
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
 As beautiful as a shell
 - [webserv](https://github.com/Hiroaki-K4/webserv)  
 Web server like Nginx (In progress)
-- [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
-Enjoy 3D rotation
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
 My C++ STL container
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
@@ -35,6 +24,13 @@ I love 42Tokyo.
 High speed darknet running on ROS
 
 <br />
+
+## 👯My stats👯
+![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroaki-K4&theme=monokai)
+![Top launguages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiroaki-K4&theme=monokai)
+![Top launguages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiroaki-K4&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiroaki-K4&theme=monokai)
+![Commits per day by hour(UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiroaki-K4&theme=monokai)
 
 <!--
 **Hiroaki-K4/Hiroaki-K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
