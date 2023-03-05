@@ -9,7 +9,7 @@
 
 ## 🌱My works🌱
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
-Enjoy 3D rotation
+Enjoy 3D rotation (In progress)
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
 As beautiful as a shell
 - [webserv](https://github.com/Hiroaki-K4/webserv)  
