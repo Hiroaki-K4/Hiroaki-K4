@@ -3,7 +3,7 @@
 - 😄 The programming language I often use are C, C++, python, Go.
 - 🌱 I am currently making a web server like Nginx as a hobby.
 - ⚡ I use Github for my private development.
-- 💬 Blog([Qiita](https://qiita.com/Hiroaki-K4), [Medium](https://medium.com/@hirok4))
+- 💬 Blog([Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
 
 <br />
 
