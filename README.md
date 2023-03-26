@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Hiroaki Kubo.
 - 📫 I always want to create fundamental technologies that will lead to the development of software.
-- 😄 The programming language I often use are C, C++, python, Go.
+- ⚡ I'm good at computer vision related algorithms.
 - 🌱 I am currently making a web server like Nginx as a hobby.
-- ⚡ I use Github for my private development.
-- 💬 Blog([Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
+- 😄 The programming language I often use are C++, python, C, Go.
+- 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
 
 <br />
 
@@ -14,7 +14,7 @@ Enjoy 3D rotation
 As beautiful as a shell
 - [webserv](https://github.com/Hiroaki-K4/webserv)  
 Web server like Nginx
-- [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)
+- [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Enjoy 3D computer vision
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
 My C++ STL container
