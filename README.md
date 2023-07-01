@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hiroaki Kubo.
 - 📫 I always want to create fundamental technologies that will lead to the development of software.
 - ⚡ I'm good at computer vision related algorithms.
-- 🌱 I am currently making a web server like Nginx as a hobby.
+- 🌱 I'm working on a project to create an AI-based algorithm from scratch.
 - 😄 The programming language I often use are C++, python, C, Go.
 - 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
 
