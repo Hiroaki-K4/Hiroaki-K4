@@ -9,6 +9,8 @@
 ## 🌱My works🌱
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Enjoy 3D computer vision
+- [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)
+Simple linear regression
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
 Enjoy 3D rotation
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
