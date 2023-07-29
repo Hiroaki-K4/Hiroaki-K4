@@ -9,7 +9,7 @@
 ## 🌱My works🌱
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Enjoy 3D computer vision
-- [func_opt](https://github.com/Hiroaki-K4/func_opt)
+- [func_opt](https://github.com/Hiroaki-K4/func_opt)    
 Finding minima or maxima
 - [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
 Simple linear regression
