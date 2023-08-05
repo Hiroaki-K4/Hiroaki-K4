@@ -7,28 +7,43 @@
 <br />
 
 ## 🌱My works🌱
+### 3D computer vision
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Enjoy 3D computer vision
-- [DSLR](https://github.com/Hiroaki-K4/DSLR)  
-Befriend logistic regression
-- [func_opt](https://github.com/Hiroaki-K4/func_opt)    
-Finding minima or maxima
-- [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
-Simple linear regression
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
 Enjoy 3D rotation
+
+## Machine learning
+- [DSLR](https://github.com/Hiroaki-K4/DSLR)  
+Befriend logistic regression
+- [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
+Simple linear regression
+
+### Optimization
+- [func_opt](https://github.com/Hiroaki-K4/func_opt)    
+Finding minima or maxima
+
+### Unix
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
 As beautiful as a shell
+
+### Web
 - [webserv](https://github.com/Hiroaki-K4/webserv)  
 Web server like Nginx
+
+### C++ Library
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
 My C++ STL container
+
+### Graphic
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
 Raycasting game
-- [42tokyo](https://github.com/Hiroaki-K4/42tokyo)  
-I love 42Tokyo.
+
+### Other
 - [tkdnn_ros](https://github.com/Hiroaki-K4/tkdnn_ros)  
 High speed darknet running on ROS
+- [42tokyo](https://github.com/Hiroaki-K4/42tokyo)  
+I love 42Tokyo.
 
 <br />
 
