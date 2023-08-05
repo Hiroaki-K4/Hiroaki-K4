@@ -13,7 +13,7 @@ Enjoy 3D computer vision
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
 Enjoy 3D rotation
 
-## Machine learning
+### Machine learning
 - [DSLR](https://github.com/Hiroaki-K4/DSLR)  
 Befriend logistic regression
 - [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
