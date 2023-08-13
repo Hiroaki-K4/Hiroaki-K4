@@ -21,7 +21,7 @@ Simple linear regression
 
 ### Optimization
 - [func_opt](https://github.com/Hiroaki-K4/func_opt)    
-Finding minima or maxima
+Mastering Optimization
 
 ### Unix
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
