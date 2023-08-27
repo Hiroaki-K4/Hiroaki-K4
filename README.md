@@ -31,7 +31,7 @@ Raycasting game
 - [FdF](https://github.com/Hiroaki-K4/FdF)  
 The representation in 3D of a landscape
 
-### C++ Library
+### C++
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
 C++ STL container
 
