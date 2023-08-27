@@ -33,7 +33,7 @@ The representation in 3D of a landscape
 
 ### C++ Library
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
-My C++ STL container
+C++ STL container
 
 ### Unix
 - [minishell](https://github.com/Hiroaki-K4/minishell)  
