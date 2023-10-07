@@ -9,9 +9,9 @@
 ## 🌱My works🌱
 ### 3D computer vision
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
-Understanding and implementing 3D computer vision
+Implemention of 3D computer vision
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
-Understanding and implementing 3D rotation
+Implemention of 3D rotation
 
 ### Machine learning
 - [multilayer_perceptron](https://github.com/Hiroaki-K4/multilayer_perceptron)  
