@@ -16,6 +16,8 @@ Understanding and implementing 3D rotation
 ### Machine learning
 - [multilayer_perceptron](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Build a multi layer perceptron from scratch
+- [ml_practice](https://github.com/Hiroaki-K4/ml_practice)
+Implementation of pattern recognition
 - [DSLR](https://github.com/Hiroaki-K4/DSLR)  
 Befriend logistic regression
 - [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
