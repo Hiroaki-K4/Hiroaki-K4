@@ -18,6 +18,8 @@ Implemention of 3D rotation
 Build a multi layer perceptron from scratch
 - [ml_practice](https://github.com/Hiroaki-K4/ml_practice)  
 Implementation of pattern recognition
+- [total_perspective_vortex](https://github.com/Hiroaki-K4/total_perspective_vortex)  
+Implementation of common spatial pattern algorithm(CSP)
 - [DSLR](https://github.com/Hiroaki-K4/DSLR)  
 Befriend logistic regression
 - [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
