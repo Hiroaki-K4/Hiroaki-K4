@@ -29,7 +29,7 @@ Simple linear regression
 - [func_opt](https://github.com/Hiroaki-K4/func_opt)    
 Mastering Optimization
 
-### Graphic
+### Computer graphics
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
 Raycasting game
 - [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
