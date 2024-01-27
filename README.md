@@ -32,10 +32,12 @@ Mastering Optimization
 ### Computer graphics
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
 Raycasting game
-- [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
-Befriend with OpenGL
+- [SCOP](https://github.com/Hiroaki-K4/scop)  
+Basic GPU rendering with OpenGL
 - [FdF](https://github.com/Hiroaki-K4/FdF)  
 The representation in 3D of a landscape
+- [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
+Befriend with OpenGL
 
 ### C++
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
