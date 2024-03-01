@@ -16,8 +16,8 @@ Implemention of 3D rotation
 ### Machine learning
 - [multilayer_perceptron](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Build a multi layer perceptron from scratch
-- [ml_practice](https://github.com/Hiroaki-K4/ml_practice)  
-Implementation of pattern recognition
+- [PRML](https://github.com/Hiroaki-K4/PRML)  
+Implementation of pattern recognition and machine learning
 - [total_perspective_vortex](https://github.com/Hiroaki-K4/total_perspective_vortex)  
 Implementation of common spatial pattern algorithm(CSP)
 - [DSLR](https://github.com/Hiroaki-K4/DSLR)  
