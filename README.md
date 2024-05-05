@@ -32,6 +32,8 @@ Mastering Optimization
 ### Computer graphics
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
 Raycasting game
+- [perline_noise](https://github.com/Hiroaki-K4/perline_noise)  
+Create random terrain by using Perline noise
 - [SCOP](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL
 - [FdF](https://github.com/Hiroaki-K4/FdF)  
