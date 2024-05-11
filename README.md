@@ -6,7 +6,7 @@
 
 <br />
 
-## 🌱My works🌱
+## 🌱Projects🌱
 ### 3D computer vision
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Implemention of 3D computer vision
