@@ -9,35 +9,54 @@
 ## 🌱Projects🌱
 ### 3D computer vision
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
-Implemention of 3D computer vision
+Implemention of 3D computer vision  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='500'>
+
 - [3d_rotation](https://github.com/Hiroaki-K4/3d_rotation)  
-Implemention of 3D rotation
+Implemention of 3D rotation  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='500'>
 
 ### Machine learning
 - [multilayer_perceptron](https://github.com/Hiroaki-K4/multilayer_perceptron)  
-Build a multi layer perceptron from scratch
+Build a multi layer perceptron from scratch  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500'>
+
 - [PRML](https://github.com/Hiroaki-K4/PRML)  
-Implementation of pattern recognition and machine learning
+Implementation of pattern recognition and machine learning  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500'>
+
 - [total_perspective_vortex](https://github.com/Hiroaki-K4/total_perspective_vortex)  
-Implementation of common spatial pattern algorithm(CSP)
+Implementation of common spatial pattern algorithm(CSP)  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/5c508b8e-9546-4fe5-9d7b-f35478199644' width='500'>
+
 - [DSLR](https://github.com/Hiroaki-K4/DSLR)  
-Befriend logistic regression
+Befriend logistic regression  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8884ac4b-ad22-43b4-bf57-44e1322cee22' width='500'>
+
 - [ft_linear_regression](https://github.com/Hiroaki-K4/ft_linear_regression)  
 Simple linear regression
 
 ### Optimization
 - [func_opt](https://github.com/Hiroaki-K4/func_opt)    
-Mastering Optimization
+Mastering Optimization  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
 
 ### Computer graphics
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
-Raycasting game
+Raycasting game  
+  <img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
+
 - [perline_noise](https://github.com/Hiroaki-K4/perline_noise)  
-Create random terrain by using Perline noise
+Create random terrain by using Perline noise  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
+
 - [SCOP](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL
+
 - [FdF](https://github.com/Hiroaki-K4/FdF)  
-The representation in 3D of a landscape
+The representation in 3D of a landscape  
+  <img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
+
 - [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
 Befriend with OpenGL
 
