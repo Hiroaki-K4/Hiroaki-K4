@@ -86,7 +86,7 @@ I have developed image recognition algorithms for automation and remote reinforc
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
 
 - [Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
-Developed object detection and object tracking algorithms.  
+I developed object detection and object tracking algorithms for automated security robots.  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b754a8d6-8845-4c2c-b1b4-c8f522de24b9' width='500'>
 
 <br />
