@@ -6,7 +6,7 @@
 
 <br />
 
-## 🌱Projects🌱
+## 🌱Personal projects🌱
 ### 3D computer vision
 - [3d_computer_vision](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Implemention of 3D computer vision  
@@ -77,6 +77,17 @@ Web server like Nginx
 High speed darknet running on ROS
 - [42tokyo](https://github.com/Hiroaki-K4/42tokyo)  
 I love 42Tokyo.
+
+<br />
+
+## 🔭Projects at work🔭
+- [Rebar Inspection System](https://pixiedusttech.com/news/news_20220220_en/)  
+I have developed image recognition algorithms for automation and remote reinforcement inspection.  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
+
+- [Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
+Developed object detection and object tracking algorithms.  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b754a8d6-8845-4c2c-b1b4-c8f522de24b9' width='500'>
 
 <br />
 
