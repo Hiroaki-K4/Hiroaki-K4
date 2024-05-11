@@ -43,7 +43,7 @@ Mastering Optimization
 
 ### Computer graphics
 - [cub3D](https://github.com/Hiroaki-K4/cub3D)  
-Raycasting game  
+Create raycasting game from scratch  
   <img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
 
 - [perline_noise](https://github.com/Hiroaki-K4/perline_noise)  
