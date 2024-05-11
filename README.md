@@ -50,12 +50,12 @@ Create raycasting game from scratch
 Create random terrain by using Perline noise  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
 
-- [SCOP](https://github.com/Hiroaki-K4/scop)  
-Basic GPU rendering with OpenGL
-
 - [FdF](https://github.com/Hiroaki-K4/FdF)  
 The representation in 3D of a landscape  
   <img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
+
+- [SCOP](https://github.com/Hiroaki-K4/scop)  
+Basic GPU rendering with OpenGL
 
 - [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
 Befriend with OpenGL
