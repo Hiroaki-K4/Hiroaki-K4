@@ -56,11 +56,11 @@ The representation in 3D of a landscape
 
 - [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
 Befriend with OpenGL  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/42009c47-d4b0-43c9-a248-0ff8f21670e3' width='500'>
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/f13e78e5-f05a-4508-aa16-66a4bdaa3a72' width='500'>
 
 - [SCOP](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8edb7c31-7e4a-449b-871e-08baa819c4fb' width='500'>
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/814baf2c-365a-4f01-9bcf-284617682490)' width='500'>
 
 ### C++
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
