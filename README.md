@@ -54,11 +54,13 @@ Create random terrain by using Perline noise
 The representation in 3D of a landscape  
   <img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
 
-- [SCOP](https://github.com/Hiroaki-K4/scop)  
-Basic GPU rendering with OpenGL
-
 - [gl_programming](https://github.com/Hiroaki-K4/gl_programming)  
-Befriend with OpenGL
+Befriend with OpenGL  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/42009c47-d4b0-43c9-a248-0ff8f21670e3' width='500'>
+
+- [SCOP](https://github.com/Hiroaki-K4/scop)  
+Basic GPU rendering with OpenGL  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8edb7c31-7e4a-449b-871e-08baa819c4fb' width='500'>
 
 ### C++
 - [ft_containers](https://github.com/Hiroaki-K4/ft_containers)  
