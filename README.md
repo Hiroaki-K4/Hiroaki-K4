@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Hiroaki Kubo.
-- 📫 I always want to create fundamental technologies that will lead to the development of software.
+- 📫 I want to contribute to expanding humanity's potential.
 - ⚡ I'm good at computer vision related algorithms and machine learning.
 - 😄 The programming language I often use are C++, python and C
 - 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
