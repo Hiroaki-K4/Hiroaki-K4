@@ -18,7 +18,7 @@ Implemention of 3D rotation
 
 ### Machine learning
 - [**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
-Build a multi layer perceptron from scratch  
+Building a multilayer perceptron from scratch  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500'>
 
 - [**PRML**](https://github.com/Hiroaki-K4/PRML)  
@@ -45,11 +45,11 @@ Mastering Optimization
 
 ### Computer graphics
 - [**cub3D**](https://github.com/Hiroaki-K4/cub3D)  
-Create raycasting game from scratch  
+Building a raycasting game from scratch  
   <img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
 
 - [**perline_noise**](https://github.com/Hiroaki-K4/perline_noise)  
-Create random terrain by using Perline noise  
+Random terrain using perlin noise  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
 
 - [**FdF**](https://github.com/Hiroaki-K4/FdF)  
