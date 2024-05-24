@@ -9,7 +9,7 @@
 ## 🌱Personal projects🌱
 ### 3D computer vision
 - [**3d_computer_vision**](https://github.com/Hiroaki-K4/3d_computer_vision)  
-Implemention of 3D computer vision  
+Implementation of 3D computer vision  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='500'>
 
 - [**3d_rotation**](https://github.com/Hiroaki-K4/3d_rotation)  
