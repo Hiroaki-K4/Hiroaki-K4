@@ -44,6 +44,10 @@ Mastering Optimization
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
 
 ### Computer graphics
+- [**ft_vox**](https://github.com/Hiroaki-K4/ft_vox)  
+Minecraft-like voxel engine using procedural generation  
+  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/30e079e8-e7ed-4c06-ad23-4af8e31d2696' width='500'>
+
 - [**cub3D**](https://github.com/Hiroaki-K4/cub3D)  
 Building a raycasting game from scratch  
   <img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
