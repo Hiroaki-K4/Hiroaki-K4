@@ -7,7 +7,7 @@
 <br />
 
 # 🌱Personal projects🌱
-Repositories of personal development and related articles of mine.
+Repositories of personal development and related articles I wrote.
 ## 3D computer vision
 ### [**3d_computer_vision**](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Implementation of 3D computer vision  
