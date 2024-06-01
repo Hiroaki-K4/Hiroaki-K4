@@ -42,6 +42,7 @@ Building a multilayer perceptron from scratch
 ### [**PRML**](https://github.com/Hiroaki-K4/PRML)  
 Implementation of pattern recognition and machine learning  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500'>
+  - [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
   - [Understanding the Tanh Function as an Activation Function](https://medium.com/@hirok4/understanding-the-tanh-function-as-an-activation-function-ff01dc3c9777)
   - [Implementation of Stochastic Generative Model](https://medium.com/@hirok4/implementation-of-stochastic-generative-model-66d7ec44e557)
   - [Implementing Fisher’s Linear Discriminant](https://medium.com/@hirok4/implementing-fishers-linear-discriminant-4b4c9829f7de)
