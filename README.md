@@ -27,134 +27,134 @@ Implementation of 3D computer vision
 
 ### :herb:[**3d_rotation**](https://github.com/Hiroaki-K4/3d_rotation)  
 Implemention of 3D rotation  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='500'>
-  - [Estimate Rotation Matrix from Corresponding Point Cloud](https://medium.com/@hirok4/estimate-rotation-matrix-from-corresponding-point-cloud-9f7e7b155370)
-  - [Calculate Rotation Matrix from 2points](https://medium.com/@hirok4/calculate-rotation-matrix-from-2points-48608793d8c9)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='500'>
+- [Estimate Rotation Matrix from Corresponding Point Cloud](https://medium.com/@hirok4/estimate-rotation-matrix-from-corresponding-point-cloud-9f7e7b155370)
+- [Calculate Rotation Matrix from 2points](https://medium.com/@hirok4/calculate-rotation-matrix-from-2points-48608793d8c9)
 
 <br />
 
 ## Machine learning
 ### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500'>
-  - [Building a Multi Layer Perceptron from Scratch](https://medium.com/@hirok4/building-a-multi-layer-perceptron-from-scratch-c9679752cf48)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500'>
+- [Building a Multi Layer Perceptron from Scratch](https://medium.com/@hirok4/building-a-multi-layer-perceptron-from-scratch-c9679752cf48)
 
 ### :herb:[**PRML**](https://github.com/Hiroaki-K4/PRML)  
 Implementation of pattern recognition and machine learning  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500'>
-  - [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
-  - [Understanding the Tanh Function as an Activation Function](https://medium.com/@hirok4/understanding-the-tanh-function-as-an-activation-function-ff01dc3c9777)
-  - [Implementation of Stochastic Generative Model](https://medium.com/@hirok4/implementation-of-stochastic-generative-model-66d7ec44e557)
-  - [Implementing Fisher’s Linear Discriminant](https://medium.com/@hirok4/implementing-fishers-linear-discriminant-4b4c9829f7de)
-  - [Hyperparameter Estimation Using Evidence Approximation](https://medium.com/@hirok4/hyperparameter-estimation-using-evidence-approximation-7881f220470e)
-  - [Plotting Equivalent Kernel](https://medium.com/@hirok4/plotting-equivalent-kernel-bc59eb3c6d29)
-  - [Plotting Predicted Distribution of Bayesian Linear Regression Model](https://medium.com/@hirok4/plotting-predicted-distribution-of-bayesian-linear-regression-model-cd9380fba50b)
-  - [Plotting the Distribution of Parameters in Bayesian Linear Regression](https://medium.com/@hirok4/plotting-the-distribution-of-parameters-in-bayesian-linear-regression-895fc8eb638f)
-  - [Plotting Relationship between Bias and Variance](https://medium.com/@hirok4/plotting-relationship-between-bias-and-variance-cfc1415828be)
-  - [Plotting Basis Functions](https://medium.com/@hirok4/plotting-basis-functions-c273f7189217)
-  - [Plotting Polynomial Curve Fitting](https://medium.com/@hirok4/plotting-polynomial-curve-fitting-def32f646b13)
-  - [Plotting Mixture of Gaussians](https://medium.com/@hirok4/plotting-mixture-of-gaussians-ab7a0c114f8d)
-  - [Plotting von Mises Distribution](https://medium.com/@hirok4/plotting-von-mises-distribution-999795fac336)
-  - [Plotting Student’s t-distribusion](https://medium.com/@hirok4/plotting-students-t-distribusion-ee80150e134d)
-  - [Bayesian Inference for the Mean of a Gaussian Distribution with Known Mean](https://medium.com/@hirok4/bayesian-inference-for-the-mean-of-a-gaussian-distribution-with-known-mean-b29c299a5bd7)
-  - [Bayesian Inference for the Mean of a Gaussian Distribution with Known Variance](https://medium.com/@hirok4/bayesian-inference-for-the-mean-of-a-gaussian-distribution-with-known-variance-9efa3a32647e)
-  - [Plotting Conditional Gaussian Distribution](https://medium.com/@hirok4/plotting-conditional-gaussian-distribution-85be6e9ac208)
-  - [Plotting Gaussian Distribution](https://medium.com/@hirok4/plotting-gaussian-distribution-48320f53ac7c)
-  - [Plotting Probability Distributions for Binary and Multivalued Variables](https://medium.com/@hirok4/plotting-probability-distributions-for-binary-and-multivalued-variables-72d9e69d7c8e)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500'>
+- [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
+- [Understanding the Tanh Function as an Activation Function](https://medium.com/@hirok4/understanding-the-tanh-function-as-an-activation-function-ff01dc3c9777)
+- [Implementation of Stochastic Generative Model](https://medium.com/@hirok4/implementation-of-stochastic-generative-model-66d7ec44e557)
+- [Implementing Fisher’s Linear Discriminant](https://medium.com/@hirok4/implementing-fishers-linear-discriminant-4b4c9829f7de)
+- [Hyperparameter Estimation Using Evidence Approximation](https://medium.com/@hirok4/hyperparameter-estimation-using-evidence-approximation-7881f220470e)
+- [Plotting Equivalent Kernel](https://medium.com/@hirok4/plotting-equivalent-kernel-bc59eb3c6d29)
+- [Plotting Predicted Distribution of Bayesian Linear Regression Model](https://medium.com/@hirok4/plotting-predicted-distribution-of-bayesian-linear-regression-model-cd9380fba50b)
+- [Plotting the Distribution of Parameters in Bayesian Linear Regression](https://medium.com/@hirok4/plotting-the-distribution-of-parameters-in-bayesian-linear-regression-895fc8eb638f)
+- [Plotting Relationship between Bias and Variance](https://medium.com/@hirok4/plotting-relationship-between-bias-and-variance-cfc1415828be)
+- [Plotting Basis Functions](https://medium.com/@hirok4/plotting-basis-functions-c273f7189217)
+- [Plotting Polynomial Curve Fitting](https://medium.com/@hirok4/plotting-polynomial-curve-fitting-def32f646b13)
+- [Plotting Mixture of Gaussians](https://medium.com/@hirok4/plotting-mixture-of-gaussians-ab7a0c114f8d)
+- [Plotting von Mises Distribution](https://medium.com/@hirok4/plotting-von-mises-distribution-999795fac336)
+- [Plotting Student’s t-distribusion](https://medium.com/@hirok4/plotting-students-t-distribusion-ee80150e134d)
+- [Bayesian Inference for the Mean of a Gaussian Distribution with Known Mean](https://medium.com/@hirok4/bayesian-inference-for-the-mean-of-a-gaussian-distribution-with-known-mean-b29c299a5bd7)
+- [Bayesian Inference for the Mean of a Gaussian Distribution with Known Variance](https://medium.com/@hirok4/bayesian-inference-for-the-mean-of-a-gaussian-distribution-with-known-variance-9efa3a32647e)
+- [Plotting Conditional Gaussian Distribution](https://medium.com/@hirok4/plotting-conditional-gaussian-distribution-85be6e9ac208)
+- [Plotting Gaussian Distribution](https://medium.com/@hirok4/plotting-gaussian-distribution-48320f53ac7c)
+- [Plotting Probability Distributions for Binary and Multivalued Variables](https://medium.com/@hirok4/plotting-probability-distributions-for-binary-and-multivalued-variables-72d9e69d7c8e)
 
-### [**total_perspective_vortex**](https://github.com/Hiroaki-K4/total_perspective_vortex)  
+### :herb:[**total_perspective_vortex**](https://github.com/Hiroaki-K4/total_perspective_vortex)  
 Implementation of common spatial pattern algorithm(CSP)  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/5c508b8e-9546-4fe5-9d7b-f35478199644' width='500'>
-  - [Theory and Implementation of CSP(Common Spatial Pattern) Algorithm](https://medium.com/@hirok4/theory-and-implementation-of-csp-common-spatial-pattern-algorithm-f84300e3b4d6)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/5c508b8e-9546-4fe5-9d7b-f35478199644' width='500'>
+- [Theory and Implementation of CSP(Common Spatial Pattern) Algorithm](https://medium.com/@hirok4/theory-and-implementation-of-csp-common-spatial-pattern-algorithm-f84300e3b4d6)
 
-### [**DSLR**](https://github.com/Hiroaki-K4/DSLR)  
+### :herb:[**DSLR**](https://github.com/Hiroaki-K4/DSLR)  
 Befriend logistic regression  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8884ac4b-ad22-43b4-bf57-44e1322cee22' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8884ac4b-ad22-43b4-bf57-44e1322cee22' width='500'>
 
-### [**ft_linear_regression**](https://github.com/Hiroaki-K4/ft_linear_regression)  
+### :herb:[**ft_linear_regression**](https://github.com/Hiroaki-K4/ft_linear_regression)  
 Simple linear regression  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b7ef2583-8377-4ce1-aac6-33b165872186' width='500'>
-  - [Implementation of Linear Regression Algorithms](https://medium.com/@hirok4/implementation-of-linear-regression-algorithms-4f1844ad4600)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b7ef2583-8377-4ce1-aac6-33b165872186' width='500'>
+- [Implementation of Linear Regression Algorithms](https://medium.com/@hirok4/implementation-of-linear-regression-algorithms-4f1844ad4600)
 
 <br />
 
 ## Optimization
-### [**func_opt**](https://github.com/Hiroaki-K4/func_opt)    
+### :herb:[**func_opt**](https://github.com/Hiroaki-K4/func_opt)    
 Mastering Optimization  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
-  - [Implementation of Simplex Method](https://medium.com/@hirok4/implementation-of-simplex-method-c8d40f647fe5)
-  - [Implementing Class Classification by Unsupervised Learning](https://medium.com/@hirok4/implementing-class-classification-by-unsupervised-learning-e1b71cdabc42)
-  - [Python Implementation of Levenberg–Marquardt Algorithm](https://medium.com/@hirok4/python-implementation-of-levenberg-marquardt-algorithm-8ff8abdec0f5)
-  - [Python Implementation of Gauss Newton Method](https://medium.com/@hirok4/python-implementation-of-gauss-newton-method-2892307a2c65)
-  - [Python Implementation of Newton’s Method](https://medium.com/@hirok4/python-implementation-of-newtons-method-9db1e863cf3c)
-  - [Python Implementation of Gradient Method](https://medium.com/@hirok4/python-implementation-of-gradient-method-e6575c082e1f)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
+- [Implementation of Simplex Method](https://medium.com/@hirok4/implementation-of-simplex-method-c8d40f647fe5)
+- [Implementing Class Classification by Unsupervised Learning](https://medium.com/@hirok4/implementing-class-classification-by-unsupervised-learning-e1b71cdabc42)
+- [Python Implementation of Levenberg–Marquardt Algorithm](https://medium.com/@hirok4/python-implementation-of-levenberg-marquardt-algorithm-8ff8abdec0f5)
+- [Python Implementation of Gauss Newton Method](https://medium.com/@hirok4/python-implementation-of-gauss-newton-method-2892307a2c65)
+- [Python Implementation of Newton’s Method](https://medium.com/@hirok4/python-implementation-of-newtons-method-9db1e863cf3c)
+- [Python Implementation of Gradient Method](https://medium.com/@hirok4/python-implementation-of-gradient-method-e6575c082e1f)
 
 <br />
 
 ## Computer graphics
-### [**ft_vox**](https://github.com/Hiroaki-K4/ft_vox)  
+### :herb:[**ft_vox**](https://github.com/Hiroaki-K4/ft_vox)  
 Minecraft-like voxel engine using procedural generation  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/cad3a13d-cd00-49ea-95e1-6c22822945ce' width='500'>
-  - [Create a Minecraft-like Voxel Engine Using Procedural Generation](https://medium.com/@hirok4/create-a-minecraft-like-voxel-engine-using-procedural-generation-39dc9d696a3c)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/cad3a13d-cd00-49ea-95e1-6c22822945ce' width='500'>
+- [Create a Minecraft-like Voxel Engine Using Procedural Generation](https://medium.com/@hirok4/create-a-minecraft-like-voxel-engine-using-procedural-generation-39dc9d696a3c)
 
-### [**cub3D**](https://github.com/Hiroaki-K4/cub3D)  
+### :herb:[**cub3D**](https://github.com/Hiroaki-K4/cub3D)  
 Building a raycasting game from scratch  
-  <img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
+<img src='https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif' width='500'>
 
-### [**perline_noise**](https://github.com/Hiroaki-K4/perline_noise)  
+### :herb:[**perline_noise**](https://github.com/Hiroaki-K4/perline_noise)  
 Random terrain using perlin noise  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
-  - [Create Random 3D Terrain by Using Perline Noise](https://medium.com/@hirok4/create-random-3d-terrain-by-using-perline-noise-546c6de2a166)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
+- [Create Random 3D Terrain by Using Perline Noise](https://medium.com/@hirok4/create-random-3d-terrain-by-using-perline-noise-546c6de2a166)
 
-### [**FdF**](https://github.com/Hiroaki-K4/FdF)  
+### :herb:[**FdF**](https://github.com/Hiroaki-K4/FdF)  
 The representation in 3D of a landscape  
-  <img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
+<img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
 
-### [**gl_programming**](https://github.com/Hiroaki-K4/gl_programming)  
+### :herb:[**gl_programming**](https://github.com/Hiroaki-K4/gl_programming)  
 Befriend with OpenGL  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/f13e78e5-f05a-4508-aa16-66a4bdaa3a72' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/f13e78e5-f05a-4508-aa16-66a4bdaa3a72' width='500'>
 
-### [**SCOP**](https://github.com/Hiroaki-K4/scop)  
+### :herb:[**SCOP**](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/814baf2c-365a-4f01-9bcf-284617682490)' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/814baf2c-365a-4f01-9bcf-284617682490)' width='500'>
 
 <br />
 
 ## C++
-### [**ft_containers**](https://github.com/Hiroaki-K4/ft_containers)  
+### :herb:[**ft_containers**](https://github.com/Hiroaki-K4/ft_containers)  
 C++ STL container
 
 <br />
 
 ## Unix
-### [**minishell**](https://github.com/Hiroaki-K4/minishell)  
+### :herb:[**minishell**](https://github.com/Hiroaki-K4/minishell)  
 As beautiful as a shell
 
 <br />
 
 ## Web
-### [**webserv**](https://github.com/Hiroaki-K4/webserv)  
+### :herb:[**webserv**](https://github.com/Hiroaki-K4/webserv)  
 Web server like Nginx  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/bfaef2ee-9825-4de8-8b6d-c9b0a82c91cd' width='300'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/bfaef2ee-9825-4de8-8b6d-c9b0a82c91cd' width='300'>
 
 <br />
 
 ## Others
-### [**tkdnn_ros**](https://github.com/Hiroaki-K4/tkdnn_ros)  
+### :herb:[**tkdnn_ros**](https://github.com/Hiroaki-K4/tkdnn_ros)  
 High speed darknet running on ROS
-### [**42tokyo**](https://github.com/Hiroaki-K4/42tokyo)  
+### :herb:[**42tokyo**](https://github.com/Hiroaki-K4/42tokyo)  
 I love 42Tokyo.
 
 <br />
 
 # :muscle:Projects at work:muscle:
-## [Rebar Inspection System](https://pixiedusttech.com/news/news_20220220_en/)  
+## :point_up:[Rebar Inspection System](https://pixiedusttech.com/news/news_20220220_en/)  
 I have developed image recognition algorithms for automation and remote reinforcement inspection.  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
 
-## [Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
+## :point_up:[Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
 I developed object detection and object tracking algorithms for automated security robots.  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b754a8d6-8845-4c2c-b1b4-c8f522de24b9' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b754a8d6-8845-4c2c-b1b4-c8f522de24b9' width='500'>
 
 <br />
 
