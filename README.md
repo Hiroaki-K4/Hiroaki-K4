@@ -9,23 +9,23 @@
 # 🌱Personal projects🌱
 Repositories of personal development and related articles I wrote.
 ## 3D computer vision
-### [**3d_computer_vision**](https://github.com/Hiroaki-K4/3d_computer_vision)  
+### :herb:[**3d_computer_vision**](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Implementation of 3D computer vision  
-  <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='500'>
-  - [Implementing Self-Calibration for Perspective Camera](https://medium.com/@hirok4/implementing-self-calibration-for-perspective-camera-6f624be04e0f)
-  - [Convert Equirectangular Image to Cubemap Image](https://medium.com/@hirok4/convert-equirectangular-image-to-cubemap-image-b8f015be0744)
-  - [Python Implementation of Ellipse Fitting](https://medium.com/@hirok4/python-implementation-of-ellipse-fitting-e8801dbb16a8)
-  - [Algorithm to Decompose Camera Matrix](https://medium.com/@hirok4/algorithm-to-decompose-camera-matrix-c3f6ebb98aef)
-  - [Euclidean Upgrading in Self-Calibration for Perspective Camera](https://medium.com/@hirok4/euclidean-upgrading-in-self-calibration-for-perspective-camera-3e88c0e1ed78)
-  - [Calculate the Intersection of Ellipses](https://medium.com/@hirok4/calculate-the-intersection-of-ellipses-7650394a6664)
-  - [Implementation of 3D Reconstruction of a Plane Surface](https://medium.com/@hirok4/implementation-of-3d-reconstruction-of-a-plane-surface-5048f0ee9f92)
-  - [Implementation of Planar Triangulation](https://medium.com/@hirok4/implementation-of-planar-triangulation-c66ef654c7fa)
-  - [Implementation of Projective Transformation](https://medium.com/@hirok4/implementation-of-projective-transformation-454ad68fc0dd)
-  - [Python Implementation of Triangulation](https://medium.com/@hirok4/python-implementation-of-triangulation-88f377de3cd1)
-  - [Python Implementation of the Fundamental Matrix Calculation](https://medium.com/@hirok4/python-implementation-of-the-fundamental-matrix-calculation-4cfb8d48ad4)
-  - [Converting the Coordinates on the Equirectangular Image to 3D Coordinates on a Sphere](https://medium.com/@hirok4/converting-the-coordinates-on-the-equirectangular-image-to-3d-coordinates-on-a-sphere-ba39a896bc9a)
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='500'>
+- [Implementing Self-Calibration for Perspective Camera](https://medium.com/@hirok4/implementing-self-calibration-for-perspective-camera-6f624be04e0f)
+- [Convert Equirectangular Image to Cubemap Image](https://medium.com/@hirok4/convert-equirectangular-image-to-cubemap-image-b8f015be0744)
+- [Python Implementation of Ellipse Fitting](https://medium.com/@hirok4/python-implementation-of-ellipse-fitting-e8801dbb16a8)
+- [Algorithm to Decompose Camera Matrix](https://medium.com/@hirok4/algorithm-to-decompose-camera-matrix-c3f6ebb98aef)
+- [Euclidean Upgrading in Self-Calibration for Perspective Camera](https://medium.com/@hirok4/euclidean-upgrading-in-self-calibration-for-perspective-camera-3e88c0e1ed78)
+- [Calculate the Intersection of Ellipses](https://medium.com/@hirok4/calculate-the-intersection-of-ellipses-7650394a6664)
+- [Implementation of 3D Reconstruction of a Plane Surface](https://medium.com/@hirok4/implementation-of-3d-reconstruction-of-a-plane-surface-5048f0ee9f92)
+- [Implementation of Planar Triangulation](https://medium.com/@hirok4/implementation-of-planar-triangulation-c66ef654c7fa)
+- [Implementation of Projective Transformation](https://medium.com/@hirok4/implementation-of-projective-transformation-454ad68fc0dd)
+- [Python Implementation of Triangulation](https://medium.com/@hirok4/python-implementation-of-triangulation-88f377de3cd1)
+- [Python Implementation of the Fundamental Matrix Calculation](https://medium.com/@hirok4/python-implementation-of-the-fundamental-matrix-calculation-4cfb8d48ad4)
+- [Converting the Coordinates on the Equirectangular Image to 3D Coordinates on a Sphere](https://medium.com/@hirok4/converting-the-coordinates-on-the-equirectangular-image-to-3d-coordinates-on-a-sphere-ba39a896bc9a)
 
-### [**3d_rotation**](https://github.com/Hiroaki-K4/3d_rotation)  
+### :herb:[**3d_rotation**](https://github.com/Hiroaki-K4/3d_rotation)  
 Implemention of 3D rotation  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='500'>
   - [Estimate Rotation Matrix from Corresponding Point Cloud](https://medium.com/@hirok4/estimate-rotation-matrix-from-corresponding-point-cloud-9f7e7b155370)
@@ -34,12 +34,12 @@ Implemention of 3D rotation
 <br />
 
 ## Machine learning
-### [**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
+### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500'>
   - [Building a Multi Layer Perceptron from Scratch](https://medium.com/@hirok4/building-a-multi-layer-perceptron-from-scratch-c9679752cf48)
 
-### [**PRML**](https://github.com/Hiroaki-K4/PRML)  
+### :herb:[**PRML**](https://github.com/Hiroaki-K4/PRML)  
 Implementation of pattern recognition and machine learning  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500'>
   - [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
@@ -147,7 +147,7 @@ I love 42Tokyo.
 
 <br />
 
-# 🔭Projects at work🔭
+# :muscle:Projects at work:muscle:
 ## [Rebar Inspection System](https://pixiedusttech.com/news/news_20220220_en/)  
 I have developed image recognition algorithms for automation and remote reinforcement inspection.  
   <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
@@ -158,7 +158,7 @@ I developed object detection and object tracking algorithms for automated securi
 
 <br />
 
-# 👯My stats👯
+# ✨My stats✨
 ![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroaki-K4&theme=monokai)
 ![Top launguages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiroaki-K4&theme=monokai)
 ![Top launguages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiroaki-K4&theme=monokai)
