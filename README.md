@@ -1,7 +1,8 @@
-# Hi there 👋 I'm Hiroaki Kubo.
-- 📫 I want to contribute to expanding humanity's potential.
-- ⚡ I'm good at computer vision related algorithms and machine learning.
-- 😄 The programming language I often use are C++, python and C
+# Hi there 👋 I'm Hiroaki Kubo :surfing_man:
+- :rocket: I want to contribute to expanding humanity's potential.
+- :eye: I'm good at computer vision related algorithms and machine learning.
+- :100: The programming language I often use are C++, python and C.
+- :sunglasses: Lately I've been interested in NeRF and 3DGS.
 - 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4), [Qiita](https://qiita.com/Hiroaki-K4))
 
 <br />
