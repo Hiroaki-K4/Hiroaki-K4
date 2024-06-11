@@ -29,7 +29,7 @@ Implementation of 3D computer vision
 
 ### :herb:[**3d_rotation**](https://github.com/Hiroaki-K4/3d_rotation)  
 Implemention of 3D rotation  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='500' height='400'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/d1f8db22-71fb-4000-87eb-5c4487a2a121' width='500' height='400'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/c1665a0c-d05f-40de-8ea6-4df6fc319dbd' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/d1f8db22-71fb-4000-87eb-5c4487a2a121' width='400' height='300'>
 
 - [Estimate Rotation Matrix from Corresponding Point Cloud](https://medium.com/@hirok4/estimate-rotation-matrix-from-corresponding-point-cloud-9f7e7b155370)
 - [Calculate Rotation Matrix from 2points](https://medium.com/@hirok4/calculate-rotation-matrix-from-2points-48608793d8c9)
@@ -47,8 +47,8 @@ Building a multilayer perceptron from scratch
 
 ### :herb:[**PRML**](https://github.com/Hiroaki-K4/PRML)  
 Implementation of pattern recognition and machine learning  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='500' height='500'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/7829134d-27ac-4521-9094-f62cd44f48b5' width='500' height='500'>
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8d5d4845-561a-416e-8dc5-f9587856660d' width='500' height='500'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/70e7544a-0e4b-4cae-9ecf-c17bbd27acbb' width='500' height='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/7829134d-27ac-4521-9094-f62cd44f48b5' width='400' height='300'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8d5d4845-561a-416e-8dc5-f9587856660d' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/70e7544a-0e4b-4cae-9ecf-c17bbd27acbb' width='400' height='300'>
 
 - [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
 - [Understanding the Tanh Function as an Activation Function](https://medium.com/@hirok4/understanding-the-tanh-function-as-an-activation-function-ff01dc3c9777)
