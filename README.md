@@ -12,7 +12,7 @@ Repositories of personal development and related articles I wrote.
 ## 3D computer vision
 ### :herb:[**3d_computer_vision**](https://github.com/Hiroaki-K4/3d_computer_vision)  
 Implementation of 3D computer vision  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='500' height='400'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b9692e47-a30f-478d-91d8-8ee52f765aac' width='500' height='400'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b8eb1437-4e7d-4300-a3ec-1338cac5a259' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b9692e47-a30f-478d-91d8-8ee52f765aac' width='400' height='300'>
 
 - [Implementing Self-Calibration for Perspective Camera](https://medium.com/@hirok4/implementing-self-calibration-for-perspective-camera-6f624be04e0f)
 - [Convert Equirectangular Image to Cubemap Image](https://medium.com/@hirok4/convert-equirectangular-image-to-cubemap-image-b8f015be0744)
@@ -39,9 +39,9 @@ Implemention of 3D rotation
 ## Machine learning
 ### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='500' height='400'>
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/0db8d57e-9835-43d5-bfc2-c14dc7de4682' width='500' height='400'>
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/42034193-ad3d-4d78-93cb-02255a38a0a0' width='500' height='400'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='400' height='300'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/0db8d57e-9835-43d5-bfc2-c14dc7de4682' width='400' height='300'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/42034193-ad3d-4d78-93cb-02255a38a0a0' width='400' height='300'>
 
 - [Building a Multi Layer Perceptron from Scratch](https://medium.com/@hirok4/building-a-multi-layer-perceptron-from-scratch-c9679752cf48)
 
