@@ -116,15 +116,12 @@ Random terrain using perlin noise
 
 ### :herb:[**FdF**](https://github.com/Hiroaki-K4/FdF)  
 The representation in 3D of a landscape  
-<img src='https://user-images.githubusercontent.com/51109408/131210489-fae4d12f-6ee2-4cfd-b8d8-3f15c3dda0c8.png' width='500'>
 
 ### :herb:[**gl_programming**](https://github.com/Hiroaki-K4/gl_programming)  
 Befriend with OpenGL  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/f13e78e5-f05a-4508-aa16-66a4bdaa3a72' width='500'>
 
 ### :herb:[**SCOP**](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/814baf2c-365a-4f01-9bcf-284617682490)' width='500'>
 
 <br />
 
