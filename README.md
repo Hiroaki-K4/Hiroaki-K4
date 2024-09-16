@@ -49,7 +49,9 @@ Building a multilayer perceptron from scratch
 Implementation of pattern recognition and machine learning  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a1bac529-5cf2-4784-9428-a079d245a719' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/7829134d-27ac-4521-9094-f62cd44f48b5' width='400' height='300'>
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8d5d4845-561a-416e-8dc5-f9587856660d' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/70e7544a-0e4b-4cae-9ecf-c17bbd27acbb' width='400' height='300'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/39386aa4-7f8c-4ff4-b634-7e6487e465eb' width='400' height='300'><img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/a3aad3cc-2c29-4cb5-bf07-5a5fcc62fde8' width='400' height='300'>
 
+- [Implementation of Noise Reduction Using Graphical Model](https://medium.com/@hirok4/implementation-of-noise-reduction-using-graphical-model-e31adc1196cc)
 - [Implementing Gaussian Process Regression](https://medium.com/@hirok4/implementing-gaussian-process-regression-97bcebd80399)
 - [Fitting Trigonometric Functions Using the Nadaraya-Watson Model](https://medium.com/@hirok4/fitting-trigonometric-functions-using-the-nadaraya-watson-model-4483aaaaa339)
 - [Implementing Mixture Density Network(MDN) Using Pytorch](https://medium.com/@hirok4/implementing-mixture-density-network-mdn-using-pytorch-8340c9530872)
