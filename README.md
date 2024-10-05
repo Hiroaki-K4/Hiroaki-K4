@@ -104,6 +104,10 @@ Mastering Optimization
 <br />
 
 ## Computer graphics
+### :herb:[**ShaderPixel**](https://github.com/Hiroaki-K4/ShaderPixel)
+<img src='https://github.com/user-attachments/assets/c058f8ac-3cc1-4285-9ee5-0f7477d8fcad' width='400'>
+<img src='https://github.com/user-attachments/assets/d5bb9d52-dd80-4e2d-9e3a-01b08c82c34d' width='400'>
+
 ### :herb:[**HumanGL**](https://github.com/Hiroaki-K4/HumanGL)  
 Reproducing human movements using hierarchical modeling and matrix stack manipulation  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/479b3295-eeff-4113-bd9c-fa57d5ca8644' width='500'>
@@ -120,7 +124,7 @@ Building a raycasting game from scratch
 
 ### :herb:[**perline_noise**](https://github.com/Hiroaki-K4/perline_noise)  
 Random terrain using perlin noise  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='500'>
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8a54de8a-ffe3-4065-b833-eceaca1d37ef' width='300'>
 - [Create Random 3D Terrain by Using Perline Noise](https://medium.com/@hirok4/create-random-3d-terrain-by-using-perline-noise-546c6de2a166)
 
 ### :herb:[**FdF**](https://github.com/Hiroaki-K4/FdF)  
