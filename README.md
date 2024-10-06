@@ -105,8 +105,11 @@ Mastering Optimization
 
 ## Computer graphics
 ### :herb:[**ShaderPixel**](https://github.com/Hiroaki-K4/ShaderPixel)
+Shaders for complex object rendering  
 <img src='https://github.com/user-attachments/assets/c058f8ac-3cc1-4285-9ee5-0f7477d8fcad' width='400'>
 <img src='https://github.com/user-attachments/assets/d5bb9d52-dd80-4e2d-9e3a-01b08c82c34d' width='400'>
+- [Implementation of Mandelbox](https://medium.com/@hirok4/implementation-of-mandelbox-19abe8b9608c)
+- [Implementation of Julia Set and Mandelbrot Set](https://medium.com/@hirok4/implementation-of-julia-set-a30ed08a8d5e)
 
 ### :herb:[**HumanGL**](https://github.com/Hiroaki-K4/HumanGL)  
 Reproducing human movements using hierarchical modeling and matrix stack manipulation  
