@@ -156,7 +156,6 @@ As beautiful as a shell
 ## Web
 ### :herb:[**webserv**](https://github.com/Hiroaki-K4/webserv)  
 Web server like Nginx  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/bfaef2ee-9825-4de8-8b6d-c9b0a82c91cd' width='300'>
 
 <br />
 
