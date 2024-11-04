@@ -37,6 +37,12 @@ Implemention of 3D rotation
 <br />
 
 ## Machine learning
+### :herb:[**vision_transformer_from_scratch**](https://github.com/Hiroaki-K4/vision_transformer_from_scratch)  
+Building vision transformer from scratch  
+<img src='https://github.com/user-attachments/assets/477d95d0-f0e9-4ba3-b093-388fcbe0f608' width='400' height='300'>
+
+- [Explanation of Vision Transformer with implementation](https://medium.com/@hirok4/explanation-of-vision-transformer-with-implementation-8f098ebc1233)
+
 ### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='400' height='300'>
