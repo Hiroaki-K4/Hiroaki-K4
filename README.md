@@ -46,7 +46,6 @@ Building vision transformer from scratch
 ### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='400' height='300'>
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/0db8d57e-9835-43d5-bfc2-c14dc7de4682' width='400' height='300'>
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/42034193-ad3d-4d78-93cb-02255a38a0a0' width='400' height='300'>
 
 - [Building a Multi Layer Perceptron from Scratch](https://medium.com/@hirok4/building-a-multi-layer-perceptron-from-scratch-c9679752cf48)
@@ -87,25 +86,10 @@ Implementation of common spatial pattern algorithm(CSP)
 
 ### :herb:[**DSLR**](https://github.com/Hiroaki-K4/DSLR)  
 Befriend logistic regression  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/8884ac4b-ad22-43b4-bf57-44e1322cee22' width='500'>
 
 ### :herb:[**ft_linear_regression**](https://github.com/Hiroaki-K4/ft_linear_regression)  
 Simple linear regression  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/b7ef2583-8377-4ce1-aac6-33b165872186' width='500'>
 - [Implementation of Linear Regression Algorithms](https://medium.com/@hirok4/implementation-of-linear-regression-algorithms-4f1844ad4600)
-
-<br />
-
-## Optimization
-### :herb:[**func_opt**](https://github.com/Hiroaki-K4/func_opt)    
-Mastering Optimization  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
-- [Implementation of Simplex Method](https://medium.com/@hirok4/implementation-of-simplex-method-c8d40f647fe5)
-- [Implementing Class Classification by Unsupervised Learning](https://medium.com/@hirok4/implementing-class-classification-by-unsupervised-learning-e1b71cdabc42)
-- [Python Implementation of Levenberg–Marquardt Algorithm](https://medium.com/@hirok4/python-implementation-of-levenberg-marquardt-algorithm-8ff8abdec0f5)
-- [Python Implementation of Gauss Newton Method](https://medium.com/@hirok4/python-implementation-of-gauss-newton-method-2892307a2c65)
-- [Python Implementation of Newton’s Method](https://medium.com/@hirok4/python-implementation-of-newtons-method-9db1e863cf3c)
-- [Python Implementation of Gradient Method](https://medium.com/@hirok4/python-implementation-of-gradient-method-e6575c082e1f)
 
 <br />
 
@@ -144,6 +128,19 @@ Befriend with OpenGL
 
 ### :herb:[**SCOP**](https://github.com/Hiroaki-K4/scop)  
 Basic GPU rendering with OpenGL  
+
+<br />
+
+## Optimization
+### :herb:[**func_opt**](https://github.com/Hiroaki-K4/func_opt)    
+Mastering Optimization  
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
+- [Implementation of Simplex Method](https://medium.com/@hirok4/implementation-of-simplex-method-c8d40f647fe5)
+- [Implementing Class Classification by Unsupervised Learning](https://medium.com/@hirok4/implementing-class-classification-by-unsupervised-learning-e1b71cdabc42)
+- [Python Implementation of Levenberg–Marquardt Algorithm](https://medium.com/@hirok4/python-implementation-of-levenberg-marquardt-algorithm-8ff8abdec0f5)
+- [Python Implementation of Gauss Newton Method](https://medium.com/@hirok4/python-implementation-of-gauss-newton-method-2892307a2c65)
+- [Python Implementation of Newton’s Method](https://medium.com/@hirok4/python-implementation-of-newtons-method-9db1e863cf3c)
+- [Python Implementation of Gradient Method](https://medium.com/@hirok4/python-implementation-of-gradient-method-e6575c082e1f)
 
 <br />
 
