@@ -94,6 +94,13 @@ Simple linear regression
 <br />
 
 ## Computer graphics
+### :herb:[**particle_system**](https://github.com/Hiroaki-K4/particle_system)
+Particle system accelerated by cuda. Video on YouTube is [here](https://youtu.be/DB6TcMyBnC0?si=hw-Y4_QGd5uc9Vux).  
+<img src='https://github.com/user-attachments/assets/e282990b-4f96-44a1-b8df-7d862a9db509' width='400'>
+<img src='https://github.com/user-attachments/assets/acc215a5-96c8-4d86-8c62-29c131bcda89' width='400'>
+- [Particle System Accelerated by Cuda](https://medium.com/@hirok4/particle-system-accelerated-by-cuda-5c8d40809227)
+
+
 ### :herb:[**ShaderPixel**](https://github.com/Hiroaki-K4/ShaderPixel)
 Shaders for complex object rendering  
 <img src='https://github.com/user-attachments/assets/c058f8ac-3cc1-4285-9ee5-0f7477d8fcad' width='400'>
