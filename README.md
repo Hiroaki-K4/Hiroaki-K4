@@ -108,15 +108,15 @@ Shaders for complex object rendering
 - [Implementation of Mandelbox](https://medium.com/@hirok4/implementation-of-mandelbox-19abe8b9608c)
 - [Implementation of Julia Set and Mandelbrot Set](https://medium.com/@hirok4/implementation-of-julia-set-a30ed08a8d5e)
 
-### :herb:[**HumanGL**](https://github.com/Hiroaki-K4/HumanGL)  
-Reproducing human movements using hierarchical modeling and matrix stack manipulation  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/479b3295-eeff-4113-bd9c-fa57d5ca8644' width='500'>
-- [Reproducing Human Movements Using Hierarchical Modeling and Matrix Stack Manipulation](https://medium.com/@hirok4/reproducing-human-movements-using-hierarchical-modeling-and-matrix-stack-manipulation-50e2a8c66724)
-
 ### :herb:[**ft_vox**](https://github.com/Hiroaki-K4/ft_vox)  
 Minecraft-like voxel engine using procedural generation  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/cad3a13d-cd00-49ea-95e1-6c22822945ce' width='500'>
 - [Create a Minecraft-like Voxel Engine Using Procedural Generation](https://medium.com/@hirok4/create-a-minecraft-like-voxel-engine-using-procedural-generation-39dc9d696a3c)
+
+### :herb:[**HumanGL**](https://github.com/Hiroaki-K4/HumanGL)  
+Reproducing human movements using hierarchical modeling and matrix stack manipulation  
+<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/479b3295-eeff-4113-bd9c-fa57d5ca8644' width='500'>
+- [Reproducing Human Movements Using Hierarchical Modeling and Matrix Stack Manipulation](https://medium.com/@hirok4/reproducing-human-movements-using-hierarchical-modeling-and-matrix-stack-manipulation-50e2a8c66724)
 
 ### :herb:[**cub3D**](https://github.com/Hiroaki-K4/cub3D)  
 Building a raycasting game from scratch  
