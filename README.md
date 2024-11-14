@@ -182,7 +182,7 @@ I love 42Tokyo.
 I have developed image recognition algorithms for automation and remote reinforcement inspection.  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
 
-## :point_up:[Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
+## :point_up:[Automatic Security Robot](https://vimeo.com/738844186/745c92fcc0)  
 I developed object detection and object tracking algorithms for automated security robots.  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/9cfccc16-bcd6-4d04-93c8-2bc20363acbf' width='500'>
 
