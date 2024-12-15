@@ -37,6 +37,13 @@ Implemention of 3D rotation
 <br />
 
 ## Machine learning
+### :herb:[**DiffusionScratch**](https://github.com/Hiroaki-K4/DiffusionScratch)  
+Diffusion model implementation from scratch  
+<img src='https://github.com/user-attachments/assets/4eee35a1-51f0-4fdb-8bfe-5ec6167a4c95' width='500'>
+
+- [Implementation of Diffusion Model](https://medium.com/@hirok4/implementation-of-diffusion-model-51788594d794)
+- [Derivation of Training Loss in Diffusion Model](https://medium.com/@hirok4/derivation-of-training-loss-in-diffusion-model-844840352950)
+
 ### :herb:[**vision_transformer_from_scratch**](https://github.com/Hiroaki-K4/vision_transformer_from_scratch)  
 Building vision transformer from scratch  
 <img src='https://github.com/user-attachments/assets/477d95d0-f0e9-4ba3-b093-388fcbe0f608' width='400' height='300'>
@@ -81,7 +88,6 @@ Implementation of pattern recognition and machine learning
 
 ### :herb:[**total_perspective_vortex**](https://github.com/Hiroaki-K4/total_perspective_vortex)  
 Implementation of common spatial pattern algorithm(CSP)  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/5c508b8e-9546-4fe5-9d7b-f35478199644' width='500'>
 - [Theory and Implementation of CSP(Common Spatial Pattern) Algorithm](https://medium.com/@hirok4/theory-and-implementation-of-csp-common-spatial-pattern-algorithm-f84300e3b4d6)
 
 ### :herb:[**DSLR**](https://github.com/Hiroaki-K4/DSLR)  
@@ -141,7 +147,6 @@ Basic GPU rendering with OpenGL
 ## Optimization
 ### :herb:[**func_opt**](https://github.com/Hiroaki-K4/func_opt)    
 Mastering Optimization  
-<img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/4f884ef5-97f0-4931-9d73-3db909da2732' width='500'>
 - [Implementation of Simplex Method](https://medium.com/@hirok4/implementation-of-simplex-method-c8d40f647fe5)
 - [Implementing Class Classification by Unsupervised Learning](https://medium.com/@hirok4/implementing-class-classification-by-unsupervised-learning-e1b71cdabc42)
 - [Python Implementation of Levenberg–Marquardt Algorithm](https://medium.com/@hirok4/python-implementation-of-levenberg-marquardt-algorithm-8ff8abdec0f5)
