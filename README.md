@@ -38,7 +38,7 @@ Implemention of 3D rotation
 
 ## Machine learning
 ### :herb:[**DiffusionScratch**](https://github.com/Hiroaki-K4/DiffusionScratch)  
-Diffusion model implementation from scratch  
+Implementing a Simple Diffusion Model from Scratch  
 <img src='https://github.com/user-attachments/assets/4eee35a1-51f0-4fdb-8bfe-5ec6167a4c95' width='500'>
 
 - [Implementation of Diffusion Model](https://medium.com/@hirok4/implementation-of-diffusion-model-51788594d794)
