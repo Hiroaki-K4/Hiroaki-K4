@@ -100,6 +100,11 @@ Simple linear regression
 <br />
 
 ## Computer graphics
+### :herb:[**ImpactX**](https://github.com/Hiroaki-K4/ImpactX)
+Simple planetary impact simulation using OpenGL and cuda. **Video on YouTube is [here](https://www.youtube.com/watch?v=qOS5XkfjJGc).**  
+<img src='https://github.com/user-attachments/assets/03ead5f8-f862-4eed-a731-565b019bab18' width='500'>
+- [Simple Planetary Impact Simulation using OpenGL and Cuda](https://medium.com/@hirok4/simple-planetary-impact-simulation-using-opengl-and-cuda-275a36f8a037)
+
 ### :herb:[**particle_system**](https://github.com/Hiroaki-K4/particle_system)
 Particle system accelerated by cuda. **Video on YouTube is [here](https://youtu.be/DB6TcMyBnC0?si=hw-Y4_QGd5uc9Vux).**  
 <img src='https://github.com/user-attachments/assets/e282990b-4f96-44a1-b8df-7d862a9db509' width='400'>
