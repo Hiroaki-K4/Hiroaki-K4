@@ -3,7 +3,7 @@
 - :eye: I'm good at computer vision related algorithms and machine learning.
 - :heart: The programming language I often use are C++, Python and C.
 - :sunglasses: Lately I've been interested in NeRF and 3DGS.
-- 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4))
+- 💬 Media([LinkedIn](https://www.linkedin.com/in/hiroaki-kubo-2819951ba/), [Medium](https://medium.com/@hirok4), [YouTube](https://www.youtube.com/@hiroakikubo9222))
 
 <br />
 
