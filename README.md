@@ -190,10 +190,12 @@ I love 42Tokyo.
 # :muscle:Projects at work:muscle:
 ## :point_up:[Rebar inspection system](https://pixiedusttech.com/news/news_20220220_en/)  
 I have developed image recognition algorithms for automation and remote reinforcement inspection.  
+- [Pixie Dust Technologies Announces the Joint Development of Rebar Inspection System](https://pixiedusttech.com/en/news/news_20240219)  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/587df0a6-f134-442b-a877-872da00c9841' width='500'>
 
 ## :point_up:[Automatic security robot](https://vimeo.com/738844186/745c92fcc0)  
 I developed object detection and object tracking algorithms for automated security robots.  
+- [Autonomous Mobile Security Robot from CSP Central Security Patrols Secures Security Sites with the Power of the Jetson AGX Xavier (NVIDIA Japan Blog)](https://blogs.nvidia.co.jp/blog/csp-ai-security-jetson-agx-xavier/)  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/9cfccc16-bcd6-4d04-93c8-2bc20363acbf' width='500'>
 
 <br />
