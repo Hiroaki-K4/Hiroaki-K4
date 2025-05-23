@@ -50,6 +50,12 @@ Building vision transformer from scratch
 
 - [Explanation of Vision Transformer with implementation](https://medium.com/@hirok4/explanation-of-vision-transformer-with-implementation-8f098ebc1233)
 
+### :herb:[**AI-Data-Scientist**](https://github.com/Hiroaki-K4/AI-Data-Scientist)  
+The AI Data Scientist: Towards Fully Automated Open-Ended Data Science  
+<img src='https://github.com/user-attachments/assets/99edede8-4c5e-4327-bcf1-1c0022e9682f' width='400' height='300'>
+
+- [The AI Data Scientist: Towards Fully Automated Open-Ended Data Science](https://medium.com/@hirok4/explanation-of-vision-transformer-with-implementation-8f098ebc1233)
+
 ### :herb:[**multilayer_perceptron**](https://github.com/Hiroaki-K4/multilayer_perceptron)  
 Building a multilayer perceptron from scratch  
 <img src='https://github.com/Hiroaki-K4/Hiroaki-K4/assets/51109408/1679a31b-1aa7-4626-a44c-95774ffc7c67' width='400' height='300'>
