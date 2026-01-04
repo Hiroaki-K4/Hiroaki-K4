@@ -48,11 +48,11 @@ Implementing a simple diffusion model from scratch
 Building vision transformer from scratch  
 <img src='https://github.com/user-attachments/assets/477d95d0-f0e9-4ba3-b093-388fcbe0f608' width='400' height='300'>
 
-- [Implementation of CLIP (Contrastive Language-Image Pre-training)](https://medium.com/@hirok4/implementation-of-clip-contrastive-language-image-pre-training-ebcf13f0997a)
-
 ### :herb:[**vlm-from-scratch**](https://github.com/Hiroaki-K4/vlm-from-scratch)  
 Building CLIP from scratch  
 <img src='https://github.com/user-attachments/assets/9c71cd61-f931-43d0-9221-ceb3a301045c' width='400' height='300'>
+
+- [Implementation of CLIP (Contrastive Language-Image Pre-training)](https://medium.com/@hirok4/implementation-of-clip-contrastive-language-image-pre-training-ebcf13f0997a)
 
 ### :herb:[**AI-Data-Scientist**](https://github.com/Hiroaki-K4/AI-Data-Scientist)  
 The AI Data Scientist: Towards Fully Automated Open-Ended Data Science  
