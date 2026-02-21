@@ -52,6 +52,8 @@ Building vision transformer from scratch
 Building BLIP from scratch  
 <img width="400" height="300" src="https://github.com/user-attachments/assets/fb4d27ea-ee30-4f0f-83a4-0ae51050d4a6" />
 
+- [Implementation of BLIP (Bootstrapping Language-Image Pre-training)](https://medium.com/@hirok4/implementation-of-blip-bootstrapping-language-image-pre-training-09310e072590)
+
 ### :herb:[**vlm-from-scratch**](https://github.com/Hiroaki-K4/vlm-from-scratch)  
 Building CLIP from scratch  
 <img src='https://github.com/user-attachments/assets/9c71cd61-f931-43d0-9221-ceb3a301045c' width='400' height='300'>
