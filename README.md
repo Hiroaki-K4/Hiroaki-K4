@@ -48,6 +48,10 @@ Implementing a simple diffusion model from scratch
 Building vision transformer from scratch  
 <img src='https://github.com/user-attachments/assets/477d95d0-f0e9-4ba3-b093-388fcbe0f608' width='400' height='300'>
 
+### :herb:[**BLIP-from-scratch**](https://github.com/Hiroaki-K4/BLIP-from-scratch)  
+Building BLIP from scratch  
+<img width="400" height="300" src="https://github.com/user-attachments/assets/fb4d27ea-ee30-4f0f-83a4-0ae51050d4a6" />
+
 ### :herb:[**vlm-from-scratch**](https://github.com/Hiroaki-K4/vlm-from-scratch)  
 Building CLIP from scratch  
 <img src='https://github.com/user-attachments/assets/9c71cd61-f931-43d0-9221-ceb3a301045c' width='400' height='300'>
