@@ -48,6 +48,12 @@ Implementing a simple diffusion model from scratch
 Building vision transformer from scratch  
 <img src='https://github.com/user-attachments/assets/477d95d0-f0e9-4ba3-b093-388fcbe0f608' width='400' height='300'>
 
+### :herb:[**LLaVA-from-scratch**](https://github.com/Hiroaki-K4/LLaVA-from-scratch)  
+Building LLaVA from scratch  
+<img width="400" height="300" src="https://github.com/user-attachments/assets/6d4dc5fd-45da-47d9-88b4-fc12c3e4722b" />
+
+- [Implementation of LLaVA)](https://medium.com/@hirok4/implementation-of-llava-1889aba59999)
+
 ### :herb:[**BLIP-from-scratch**](https://github.com/Hiroaki-K4/BLIP-from-scratch)  
 Building BLIP from scratch  
 <img width="400" height="300" src="https://github.com/user-attachments/assets/fb4d27ea-ee30-4f0f-83a4-0ae51050d4a6" />
