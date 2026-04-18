@@ -50,9 +50,9 @@ Building vision transformer from scratch
 
 ### :herb:[**LLaVA-from-scratch**](https://github.com/Hiroaki-K4/LLaVA-from-scratch)  
 Building LLaVA from scratch  
-<img width="400" height="300" src="https://github.com/user-attachments/assets/6d4dc5fd-45da-47d9-88b4-fc12c3e4722b" />
+<img width="900" height="300" src="https://github.com/user-attachments/assets/6d4dc5fd-45da-47d9-88b4-fc12c3e4722b" />
 
-- [Implementation of LLaVA)](https://medium.com/@hirok4/implementation-of-llava-1889aba59999)
+- [Implementation of LLaVA](https://medium.com/@hirok4/implementation-of-llava-1889aba59999)
 
 ### :herb:[**BLIP-from-scratch**](https://github.com/Hiroaki-K4/BLIP-from-scratch)  
 Building BLIP from scratch  
